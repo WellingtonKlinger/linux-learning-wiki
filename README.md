@@ -1,7 +1,7 @@
 # 🐧 Minha Jornada Linux SysAdmin
 
 ## 📊 Status Atual
-- **Início**: [Data de hoje]
+- **Início**: [20/11/2025]
 - **Objetivo**: SysAdmin profissional
 - **Sistema**: Debian Stable + XFCE4
 - **Tempo de estudo**: 16h/semana
@@ -35,4 +35,4 @@
 - [Debian Wiki](https://wiki.debian.org)
 
 ---
-**Última atualização**: [Data]
+**Última atualização**: [20/11/2025]
